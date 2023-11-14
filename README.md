@@ -13,7 +13,7 @@
 Bom dia 🙋🏽‍♂️ para todos dev,hoje desenvolvi uma aplicação para controle de produtos em um banco de dados utilizando java e uma gerenciador de banco de dados SQL e usei dois Frameworks.
 
 <!-- colocar imagem do projeto -->
-<img src="https://static.vecteezy.com/ti/vetor-gratis/p1/2756161-uma-mulher-com-um-ponto-de-interrogacao-flutuando-acima-de-sua-cabeca-esta-fazendo-um-gesto-de-levantar-os-ombros-estilo-desenho-ilustracoes-vetor.jpg">
+<img src="JPA-desafio - Visual Studio Code 14_11_2023 13_45_50.png">
 <!--      -->
 
 ### OBS : Caso queira testar o projeto, você terá que fazer algumas  alterações na conexão com o banco de dados, irei mostrar como fazer.
@@ -33,15 +33,16 @@ as seguintes conexões :
 
 ### Base de dados
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="	https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width=80>
 
 ### IDE para o desenvolvimento
 
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width=50>
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width=50>
 
 ### Linguagem de programação
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="	https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width=80>
 
 ### Frameworks
 
