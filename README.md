@@ -16,6 +16,21 @@ Bom dia 🙋🏽‍♂️ para todos dev,hoje desenvolvi uma aplicação para co
 <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/2756161-uma-mulher-com-um-ponto-de-interrogacao-flutuando-acima-de-sua-cabeca-esta-fazendo-um-gesto-de-levantar-os-ombros-estilo-desenho-ilustracoes-vetor.jpg">
 <!--      -->
 
+### OBS : Caso queira testar o projeto, você terá que fazer algumas  alterações na conexão com o banco de dados, irei mostrar como fazer.
+``` 
+você vai seguir esse path 'untitled1\src\main\resources\META-INF\persistence.xml' 
+dentro do arquivo persistence você irá trocar 
+as seguintes conexões :           
+
+<property name="javax.persistence.jdbc.password" value="coloque a senha do seu banco de dados"/>
+<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/coloque o nome da base de dados aqui (schema do workbench)"/>
+
+
+
+
+
+ ``` 
+
 ## Tecnologias
 
 ### Base de dados
