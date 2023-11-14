@@ -22,6 +22,8 @@ você vai seguir esse path 'untitled1\src\main\resources\META-INF\persistence.xm
 dentro do arquivo persistence você irá trocar 
 as seguintes conexões :           
 
+// Lembrando que você deve estar no mysql pra fazer essa conexão
+
 <property name="javax.persistence.jdbc.password" value="coloque a senha do seu banco de dados"/>
 <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/coloque o nome da base de dados aqui (schema do workbench)"/>
 
