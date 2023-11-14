@@ -25,10 +25,6 @@ as seguintes conexões :
 <property name="javax.persistence.jdbc.password" value="coloque a senha do seu banco de dados"/>
 <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/coloque o nome da base de dados aqui (schema do workbench)"/>
 
-
-
-
-
  ``` 
 
 ## Tecnologias
