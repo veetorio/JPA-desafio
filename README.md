@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/veetorio/JPA-desafio?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/veetorio/JPA-desafio?style=for-the-badge)
 
-<img src="6bcc7050-db57-11eb-a4db-4272ac1f1fcf.jfif">
+<img src="0225a431e5b2637204873584848f3949.png">
 
 
 ## Descrição
