@@ -34,7 +34,7 @@ as seguintes conexões :
 ### Base de dados
 
 
-<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width=50>
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width=60>
 
 
 ### IDE para o desenvolvimento
@@ -44,7 +44,7 @@ as seguintes conexões :
 
 ### Linguagem de programação
 
-<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width=50>
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width=60>
 
 ### Frameworks
 
