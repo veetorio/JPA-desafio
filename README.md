@@ -19,7 +19,7 @@ Bom dia 🙋🏽‍♂️ para todos dev,hoje desenvolvi uma aplicação para co
 ## Tecnologias
 
 ### Base de dados
-<img src="	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 ### IDE para o desenvolvimento
 
