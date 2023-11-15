@@ -72,7 +72,7 @@ comandos git para ajudar no meu projeto
 
 * Elves
 
-* Gabriel Mendoça
+* Gabriel Mendonça 
 
 * Newton
 
