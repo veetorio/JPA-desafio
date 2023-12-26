@@ -53,10 +53,10 @@ as seguintes conexões :
 
 ## Caso queira ajudar
 
-```
+```sh
 instalando meu projeto git
 
-    <$ git clone 'https://github.com/veetorio/JPA-desafio.git'>
+    $ git clone 'https://github.com/veetorio/JPA-desafio.git'
 
 comandos git para ajudar no meu projeto   
 
